@@ -1,0 +1,144 @@
+body {
+    margin: 0;
+    font-family: Poppins;
+}
+img {
+    display: block;
+    margin: auto;
+    margin-top:-4px;
+    width:1000px;
+    height: auto;
+    object-fit: cover;
+}
+.Bitcoin {
+    width: 500px;
+    height: auto;
+    margin-bottom: -40px;
+}
+.Text-Bitcoin {
+    font-family:Poppins;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #1A1C55;
+    padding: 10px;
+    border-radius:5px;
+    width:55%;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.Text-Bitcoin-Parent {
+    display: flex;
+    justify-content: center;
+}
+.P2p-Traders {
+    text-align: center;
+    font-family:Poppins;
+    font-size: 18px;
+    color: #9C6AFD;
+    font-weight: 600;
+}
+p {
+    text-align: center;
+    font-family:Poppins;
+    font-size:16px;
+    color: #868686;    
+    font-weight: 600;
+}
+.popper {
+    display: inline;
+    width: 12.9px;
+    height: 12.9px;
+}
+.Mark {
+    color: #04E2AF;
+}
+.Bitcoing-2nd-Chart {
+    width:300px;
+    margin-bottom: -10px;
+    margin-top: 21px;
+}
+#Local-Traders-Paragraph {
+    font-family:Poppins;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 16px;
+    margin: 35px;
+    margin-bottom: 0;
+    background-color: #04E2AF;
+    padding:10px;
+    border-radius:5px;
+    width:45%;
+}
+.a2 {
+    color: #1A1C55;
+}
+.Parent-Div {
+    display: flex;
+    justify-content: center;
+}
+li::marker {
+    color: #04E2AF;
+}
+ul li {
+    color: #1A1C55;
+    font-size: 16px;
+    font-weight: 600;
+    margin: 5px;
+}
+.Zero-Fees {
+    width: 230px;
+}
+#Local-Traders-Paragraph-2 {
+    color: #1A1C55;
+    background-color: #04E2AF;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 600;
+    font-size:16px;
+    padding:10px;
+    margin: 35px;
+    margin-left: 510px;
+    width:30%;
+    border-radius:10px;
+}
+.p-tag-modified {
+    color: #9C6AFD;
+    font-size: 20px;
+}
+.Best-Regards {
+    text-align: center;
+    color: #868686;
+    size: 14px;
+    font-weight: 600;
+}
+.Don’t-Wanna-Receive {
+    color: #A8A8A8;
+}
+.P-Span {
+    color: #1A1C55 !important;
+}
+.Advice1 {
+    display: inline;
+    color: #A8A8A8;
+    font-size: 15px;
+    font-weight: 600;
+}
+.Advice2 {
+    color: #A8A8A8;
+    font-size: 15px;
+    font-weight: 600;
+    text-align: end;
+    margin: -25px;
+    margin-right: 8px;
+}
+.Id-Number {
+    color: #04E2AF;
+}
+.Social-Handels {
+    width: 200px;
+    margin: 10px;
+}
